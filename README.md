@@ -15,8 +15,4 @@ Plans for development:
 * Add blog post functionality
 * Add Google Maps integration
 * Integrate search functionality
-<<<<<<< HEAD
 * & a ton more! <3
-=======
-* & a ton more! <3
->>>>>>> d24fa8d1caea3543cd630e36e973c06b2a71f783
