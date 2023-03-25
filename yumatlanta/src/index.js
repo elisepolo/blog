@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import Home from './home.js'
 
 /**
  * Navigation page for all components
@@ -7,13 +8,12 @@ import ReactDOM from 'react-dom/client';
 class Index extends React.Component {
   render() {
     return(
-      <div className='Navigation'>
-        <p>Blog landing page</p>
+      <div>
+        <Home/>
       </div>
-    )
+    );
   }
 } export default Index;
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<Index/>);
-
