@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 
 /**
  * Navigation page for all components
+ * Test
  */
 class Index extends React.Component {
   render() {
